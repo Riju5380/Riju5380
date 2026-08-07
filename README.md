@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Astfast Infotech.<br>🌱 I’m currently learning Flutter with Laravel.<br>💬 Ask me about my experience with how i got a job.<br>⚡ Fun fact about me is i love coding with traveling.
+🔭 I’m currently working at Astfast Infotech.<br>🌱 I’m currently learning Flutter with Laravel.<br>💬 Ask me about my experience with how i got a job.<br>⚡ Fun fact about me is i love coding with traveling.
 
 
 ## 🌐 Socials:
