@@ -1,25 +1,25 @@
- <div align="center">
+<div align="center">
 
-# 👋 Hey, I'm Srijit Santra
+# Srijit Santra
 
-### 💻 App Developer | Flutter Enthusiast | Creative Builder
+### `APP DEVELOPER` · `FLUTTER DEVELOPER` · `CREATIVE BUILDER`
 
-**Turning ideas into beautiful, functional mobile experiences.**
+*Turning ideas into beautiful, functional mobile experiences.*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Riju5380&style=for-the-badge&color=7C3AED)](https://github.com/Riju5380)
-[![GitHub Followers](https://img.shields.io/github/followers/Riju5380?style=for-the-badge&logo=github&color=181717)](https://github.com/Riju5380?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/srijit-santra/)
+[![Profile Views](https://komarev.com/ghpvc/?username=Riju5380&style=flat-square&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/Riju5380)
+[![GitHub Followers](https://img.shields.io/github/followers/Riju5380?style=flat-square&logo=github&label=FOLLOWERS&color=181717)](https://github.com/Riju5380?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijit-santra/)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## `01` — About Me
 
 ```yaml
 name: Srijit Santra
 role: App Developer @ Astfast Infotech
-primary_focus: Flutter & Mobile App Development
+focus: Flutter & Mobile App Development
 technologies:
   - Flutter
   - Dart
@@ -29,80 +29,83 @@ technologies:
 interests:
   - Mobile App Development
   - UI/UX Design
-  - Photography 📸
-  - Bike Riding 🏍️
+  - Photography
+  - Bike Riding
 ```
+
+- Building and deploying mobile applications with Flutter.
+- Exploring modern UI/UX and intuitive app experiences.
+- Turning ideas into practical digital products.
+- Always open to collaboration, learning, and new challenges.
+
 ---
 
-## 🚀 Featured Project
+## `02` — Featured Project
 
 <div align="center">
 
-### 📈 StockLearn
+# StockLearn
 
-**Explore the stock market through a virtual trading experience.**
+### VIRTUAL STOCK MARKET SIMULATOR
 
-</div>
+A Flutter-based virtual stock market simulator focused on fintech UI/UX, portfolio visualization, and simulated trading workflows.
 
-StockLearn is a Flutter-based virtual stock market simulator built as a development and portfolio project, with a focus on modern fintech UI/UX and simulated trading workflows.
-
-**✨ Key Features**
-
-- 📊 Dashboard with virtual balance and portfolio overview
-- 📈 Stock market browsing interface
-- 💼 Portfolio analytics and allocation visualization
-- 🧾 Simulated trading history and profit/loss summaries
-- 👤 Profile and appearance preferences
-- 🎨 Modern UI with clean layouts and intuitive navigation
-
-<div align="center">
-
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Riju5380/Stock_learn_app)
-
-[![Download Latest APK](https://img.shields.io/badge/⬇_DOWNLOAD_LATEST_APK-34A853?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Riju5380/Stock_learn_app/releases/latest)
+[![Repository](https://img.shields.io/badge/EXPLORE_REPOSITORY-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Riju5380/Stock_learn_app)
+[![Latest Release](https://img.shields.io/badge/ANDROID_APK-DOWNLOAD_LATEST-238636?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Riju5380/Stock_learn_app/releases/latest)
 
 </div>
 
-**📲 How to install**
+### Key Features
 
-1. Open the latest release using the download button above.
-2. Download the APK from the release's **Assets** section.
+- **Dashboard** — virtual balance and portfolio overview
+- **Market Explorer** — browse available stocks
+- **Portfolio Analytics** — allocation visualization and holdings
+- **Trading History** — simulated trades and profit/loss summaries
+- **Personalization** — profile and appearance preferences
+- **Interface Design** — clean layouts and consistent visual styling
+
+**Installation**
+
+1. Open the [latest release](https://github.com/Riju5380/Stock_learn_app/releases/latest).
+2. Download the APK from the release assets.
 3. Open the downloaded file on your Android device.
 4. If prompted, allow installation from that source and follow the instructions.
 
-> **Note:** StockLearn is a virtual trading and learning project, not a real investment platform. Features that depend on external services may not work offline.
+> StockLearn is a learning and portfolio project, not a real investment platform. Features that require external services may not work offline.
 
 ---
 
-## 🛠️ Tech Stack
+## `03` — Tech Stack
 
 <div align="center">
 
-### 📱 Mobile Development
+**MOBILE DEVELOPMENT**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev)
 
-### ⚙️ Backend Development
+**BACKEND DEVELOPMENT**
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net)
 
-### 💻 Programming Language
+**PROGRAMMING LANGUAGE**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## `04` — GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Riju5380&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Riju5380&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riju5380&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riju5380&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=Riju5380&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
@@ -110,27 +113,23 @@ StockLearn is a Flutter-based virtual stock market simulator built as a developm
 
 ---
 
-## 🌐 Connect With Me
+## `05` — Connect
 
 <div align="center">
 
-Let's connect, share ideas, and build something awesome together!
+*Open to conversations, collaborations, and interesting ideas.*
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/srijit_santra)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijit-santra/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srijitsantra904@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Riju5380)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-C13584?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/srijit_santra)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijit-santra/)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:srijitsantra904@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Riju5380)
 
-### 💡 Build · Learn · Create · Repeat
+<br/>
 
-**Thanks for visiting my profile!** ⭐
+`BUILD` / `LEARN` / `CREATE` / `REPEAT`
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-*Made with ❤️ by Srijit Santra*
+<sub>Designed with intention. Built with curiosity.</sub>
 
 </div>
