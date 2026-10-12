@@ -32,14 +32,6 @@ interests:
   - Photography 📸
   - Bike Riding 🏍️
 ```
-
-- 🔭 Working as an **App Developer at Astfast Infotech**.
-- 📱 Designing, building, and deploying mobile applications with Flutter.
-- 🌱 Exploring better ways to create modern, user-friendly applications.
-- 💡 Passionate about turning ideas into practical digital experiences.
-- 📸 Photography enthusiast and 🏍️ bike riding lover.
-- 🤝 Always open to learning, collaboration, and exciting projects.
-
 ---
 
 ## 🚀 Featured Project
