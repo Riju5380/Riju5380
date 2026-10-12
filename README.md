@@ -1,5 +1,9 @@
 # 👨🏻‍💻 About Me:
-🔭 I’m currently working at Astfast Infotech.<br>🌱 I’m currently learning Flutter with Laravel.<br>💬 Ask me about my experience with how i got a job.<br>⚡ Fun fact about me is i love coding with traveling.
+🔭 App Developer @ Astfast Infotech
+<br>📱 Designing, building & deploying mobile apps with Flutter.
+<br>🌱 Exploring Flutter deeper and working with Laravel.
+<br>⚡ Turning ideas into apps, one line of code at a time.
+<br>📸 Photography enthusiast | 🏍️ Bike riding addict
 
 
 ## 🌐 Socials:
